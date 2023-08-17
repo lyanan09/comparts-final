@@ -1,0 +1,7 @@
+config.make
+Makefile
+openFrameworks-Info.plist
+Project.xcconfig
+bin/time_finalDebug.app
+project.pbxproj
+time_final.xcodeproj
